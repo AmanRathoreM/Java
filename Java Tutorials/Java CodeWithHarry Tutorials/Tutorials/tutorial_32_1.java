@@ -8,14 +8,12 @@ public class tutorial_32_1 {
 
     static void change_var_value(int num) {
 
-        // * This method will not change the value because, it is using call by value
-        // * property of a variable
+        // * This method will not change the value because, it is using call by value property of a variable
         num = 786;
     }
 
     static void change_array_value(int[] arr) {
-        // * This method is using call by reference property of a variable, so value
-        // * will definitely change
+        // * This method is using call by reference property of a variable, so value will definitely change
         arr[0] = 7845;
     }
 
