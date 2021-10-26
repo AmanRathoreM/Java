@@ -14,9 +14,9 @@
 
 ## **_1.) tutorial_1 of Java_**
 
-### [**_Click me_**](tutorial_1.java "Click here to see full file") to see full file of tutorial_1
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_1.java "Clike here to see full file") to see full file of tutorial_1
 
-```Java
+```java
 /*
 Date 16-10-2021
 
@@ -38,9 +38,9 @@ public class tutorial_1 {
 
 ## **_2.) tutorial_2 of Java_**
 
-### [**_Click me_**](tutorial_2.java "Click here to see full file") to see full file of tutorial_2
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_2.java "Clike here to see full file") to see full file of tutorial_2
 
-```Java
+```java
 /*
 Date 16-10-2021
 
@@ -62,9 +62,9 @@ public class tutorial_2 {
 
 ## **_3.) tutorial_3 of Java_**
 
-### [**_Click me_**](tutorial_3.java "Click here to see full file") to see full file of tutorial_3
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_3.java "Clike here to see full file") to see full file of tutorial_3
 
-```Java
+```java
 /*
 Date 16-10-2021
 
@@ -92,9 +92,9 @@ public class tutorial_3 {
 
 ## **_4.) tutorial_4 of Java_**
 
-### [**_Click me_**](tutorial_4.java "Click here to see full file") to see full file of tutorial_4
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_4.java "Clike here to see full file") to see full file of tutorial_4
 
-```Java
+```java
 /*
 Date 16-10-2021
 
@@ -130,9 +130,9 @@ public class tutorial_4 {
 
 ## **_5.) tutorial_5 of Java_**
 
-### [**_Click me_**](tutorial_5.java "Click here to see full file") to see full file of tutorial_5
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_5.java "Clike here to see full file") to see full file of tutorial_5
 
-```Java
+```java
 /*
 Date 16-10-2021
 
@@ -164,9 +164,9 @@ public class tutorial_5 {
 
 ## **_6.) tutorial_6_exercise of Java_**
 
-### [**_Click me_**](tutorial_6_exercise.java "Click here to see full file") to see full file of tutorial_6_exercise
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_6_exercise.java "Clike here to see full file") to see full file of tutorial_6_exercise
 
-```Java
+```java
 /*
 Date 19-10-2021
 
@@ -215,9 +215,9 @@ public class tutorial_6_exercise {
 
 ## **_7.) tutorial_7 of Java_**
 
-### [**_Click me_**](tutorial_7.java "Click here to see full file") to see full file of tutorial_7
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_7.java "Clike here to see full file") to see full file of tutorial_7
 
-```Java
+```java
 /*
 Date 19-10-2021
 
@@ -239,9 +239,9 @@ public class tutorial_7 {
 
 ## **_8.) tutorial_8 of Java_**
 
-### [**_Click me_**](tutorial_8.java "Click here to see full file") to see full file of tutorial_8
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_8.java "Clike here to see full file") to see full file of tutorial_8
 
-```Java
+```java
 /*
 Date 19-10-2021
 
@@ -267,9 +267,9 @@ public class tutorial_8 {
 
 ## **_9.) tutorial_9 of Java_**
 
-### [**_Click me_**](tutorial_9.java "Click here to see full file") to see full file of tutorial_9
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_9.java "Clike here to see full file") to see full file of tutorial_9
 
-```Java
+```java
 /*
 Date 19-10-2021
 
@@ -295,9 +295,9 @@ public class tutorial_9 {
 
 ## **_10.) tutorial_10 of Java_**
 
-### [**_Click me_**](tutorial_10.java "Click here to see full file") to see full file of tutorial_10
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_10.java "Clike here to see full file") to see full file of tutorial_10
 
-```Java
+```java
 /*
 Date 19-10-2021
 
@@ -323,9 +323,9 @@ public class tutorial_10 {
 
 ## **_11.) tutorial_13 of Java_**
 
-### [**_Click me_**](tutorial_13.java "Click here to see full file") to see full file of tutorial_13
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_13.java "Clike here to see full file") to see full file of tutorial_13
 
-```Java
+```java
 /*
 Date 19-10-2021
 
@@ -352,9 +352,9 @@ public class tutorial_13 {
 
 ## **_12.) tutorial_14 of Java_**
 
-### [**_Click me_**](tutorial_14.java "Click here to see full file") to see full file of tutorial_14
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_14.java "Clike here to see full file") to see full file of tutorial_14
 
-```Java
+```java
 /*
 Date 19-10-2021
 
@@ -384,9 +384,9 @@ public class tutorial_14 {
 
 ## **_13.) tutorial_15 of Java_**
 
-### [**_Click me_**](tutorial_15.java "Click here to see full file") to see full file of tutorial_15
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_15.java "Clike here to see full file") to see full file of tutorial_15
 
-```Java
+```java
 /*
 Date 19-10-2021
 
@@ -408,9 +408,9 @@ public class tutorial_15 {
 
 ## **_14.) tutorial_16 of Java_**
 
-### [**_Click me_**](tutorial_16.java "Click here to see full file") to see full file of tutorial_16
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_16.java "Clike here to see full file") to see full file of tutorial_16
 
-```Java
+```java
 /*
 Date 19-10-2021
 
@@ -439,9 +439,9 @@ public class tutorial_16 {
 
 ## **_15.) tutorial_17 of Java_**
 
-### [**_Click me_**](tutorial_17.java "Click here to see full file") to see full file of tutorial_17
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_17.java "Clike here to see full file") to see full file of tutorial_17
 
-```Java
+```java
 /*
 Date 20-10-2021
 
@@ -471,9 +471,9 @@ public class tutorial_17 {
 
 ## **_16.) tutorial_18 of Java_**
 
-### [**_Click me_**](tutorial_18.java "Click here to see full file") to see full file of tutorial_18
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_18.java "Clike here to see full file") to see full file of tutorial_18
 
-```Java
+```java
 /*
 Date 20-10-2021
 
@@ -507,9 +507,9 @@ public class tutorial_18 {
 
 ## **_17.) tutorial_19 of Java_**
 
-### [**_Click me_**](tutorial_19.java "Click here to see full file") to see full file of tutorial_19
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_19.java "Clike here to see full file") to see full file of tutorial_19
 
-```Java
+```java
 /*
 Date 20-10-2021
 
@@ -531,9 +531,9 @@ public class tutorial_19 {
 
 ## **_18.) tutorial_20_exercise of Java_**
 
-### [**_Click me_**](tutorial_20_exercise.java "Click here to see full file") to see full file of tutorial_20_exercise
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_20_exercise.java "Clike here to see full file") to see full file of tutorial_20_exercise
 
-```Java
+```java
 /*
 Date 20-10-2021
 
@@ -686,9 +686,9 @@ public class tutorial_20_exercise {
 
 ## **_19.) tutorial_21 of Java_**
 
-### [**_Click me_**](tutorial_21.java "Click here to see full file") to see full file of tutorial_21
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_21.java "Clike here to see full file") to see full file of tutorial_21
 
-```Java
+```java
 /*
 Date 20-10-2021
 
@@ -713,9 +713,9 @@ public class tutorial_21 {
 
 ## **_20.) tutorial_22 of Java_**
 
-### [**_Click me_**](tutorial_22.java "Click here to see full file") to see full file of tutorial_22
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_22.java "Clike here to see full file") to see full file of tutorial_22
 
-```Java
+```java
 /*
 Date 20-10-2021
 
@@ -740,9 +740,9 @@ public class tutorial_22 {
 
 ## **_21.) tutorial_23 of Java_**
 
-### [**_Click me_**](tutorial_23.java "Click here to see full file") to see full file of tutorial_23
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_23.java "Clike here to see full file") to see full file of tutorial_23
 
-```Java
+```java
 /*
 Date 20-10-2021
 
@@ -766,9 +766,9 @@ public class tutorial_23 {
 
 ## **_22.) tutorial_24 of Java_**
 
-### [**_Click me_**](tutorial_24.java "Click here to see full file") to see full file of tutorial_24
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_24.java "Clike here to see full file") to see full file of tutorial_24
 
-```Java
+```java
 /*
 Date 20-10-2021
 
@@ -795,9 +795,9 @@ public class tutorial_24 {
 
 ## **_23.) tutorial_25 of Java_**
 
-### [**_Click me_**](tutorial_25.java "Click here to see full file") to see full file of tutorial_25
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_25.java "Clike here to see full file") to see full file of tutorial_25
 
-```Java
+```java
 /*
 Date 20-10-2021
 
@@ -819,9 +819,9 @@ public class tutorial_25 {
 
 ## **_24.) tutorial_26 of Java_**
 
-### [**_Click me_**](tutorial_26.java "Click here to see full file") to see full file of tutorial_26
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_26.java "Clike here to see full file") to see full file of tutorial_26
 
-```Java
+```java
 /*
 Date 20-10-2021
 
@@ -853,9 +853,9 @@ public class tutorial_26 {
 
 ## **_25.) tutorial_27 of Java_**
 
-### [**_Click me_**](tutorial_27.java "Click here to see full file") to see full file of tutorial_27
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_27.java "Clike here to see full file") to see full file of tutorial_27
 
-```Java
+```java
 /*
 Date 20-10-2021
 
@@ -887,9 +887,9 @@ public class tutorial_27 {
 
 ## **_26.) tutorial_28 of Java_**
 
-### [**_Click me_**](tutorial_28.java "Click here to see full file") to see full file of tutorial_28
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_28.java "Clike here to see full file") to see full file of tutorial_28
 
-```Java
+```java
 /*
 Date 20-10-2021
 
@@ -954,9 +954,9 @@ public class tutorial_28 {
 
 ## **_27.) tutorial_29 of Java_**
 
-### [**_Click me_**](tutorial_29.java "Click here to see full file") to see full file of tutorial_29
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_29.java "Clike here to see full file") to see full file of tutorial_29
 
-```Java
+```java
 /*
 Date 20-10-2021
 
@@ -978,9 +978,9 @@ public class tutorial_29 {
 
 ## **_28.) tutorial_31 of Java_**
 
-### [**_Click me_**](tutorial_31.java "Click here to see full file") to see full file of tutorial_31
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_31.java "Clike here to see full file") to see full file of tutorial_31
 
-```Java
+```java
 /*
 Date 20-10-2021
 
@@ -1011,9 +1011,9 @@ public class tutorial_31 {
 
 ## **_29.) tutorial_32_1 of Java_**
 
-### [**_Click me_**](tutorial_32_1.java "Click here to see full file") to see full file of tutorial_32_1
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_32_1.java "Clike here to see full file") to see full file of tutorial_32_1
 
-```Java
+```java
 /*
 Date 20-10-2021
 
@@ -1056,9 +1056,9 @@ public class tutorial_32_1 {
 
 ## **_30.) tutorial_32_2 of Java_**
 
-### [**_Click me_**](tutorial_32_2.java "Click here to see full file") to see full file of tutorial_32_2
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_32_2.java "Clike here to see full file") to see full file of tutorial_32_2
 
-```Java
+```java
 /*
 Date 20-10-2021
 
@@ -1095,9 +1095,9 @@ public class tutorial_32_2 {
 
 ## **_31.) tutorial_33 of Java_**
 
-### [**_Click me_**](tutorial_33.java "Click here to see full file") to see full file of tutorial_33
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_33.java "Clike here to see full file") to see full file of tutorial_33
 
-```Java
+```java
 /*
 Date 20-10-2021
 
@@ -1129,9 +1129,9 @@ public class tutorial_33 {
 
 ## **_32.) tutorial_34_1 of Java_**
 
-### [**_Click me_**](tutorial_34_1.java "Click here to see full file") to see full file of tutorial_34_1
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_34_1.java "Clike here to see full file") to see full file of tutorial_34_1
 
-```Java
+```java
 /*
 Date 20-10-2021
 
@@ -1189,9 +1189,9 @@ public class tutorial_34_1 {
 
 ## **_33.) tutorial_34_2 of Java_**
 
-### [**_Click me_**](tutorial_34_2.java "Click here to see full file") to see full file of tutorial_34_2
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_34_2.java "Clike here to see full file") to see full file of tutorial_34_2
 
-```Java
+```java
 /*
 Date 20-10-2021
 
@@ -1252,9 +1252,9 @@ public class tutorial_34_2 {
 
 ## **_34.) tutorial_35 of Java_**
 
-### [**_Click me_**](tutorial_35.java "Click here to see full file") to see full file of tutorial_35
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_35.java "Clike here to see full file") to see full file of tutorial_35
 
-```Java
+```java
 /*
 Date 20-10-2021
 
@@ -1276,9 +1276,9 @@ public class tutorial_35 {
 
 ## **_35.) tutorial_38 of Java_**
 
-### [**_Click me_**](tutorial_38.java "Click here to see full file") to see full file of tutorial_38
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_38.java "Clike here to see full file") to see full file of tutorial_38
 
-```Java
+```java
 /*
 Date 21-10-2021
 
@@ -1317,9 +1317,9 @@ public class tutorial_38 {
 
 ## **_36.) tutorial_39 of Java_**
 
-### [**_Click me_**](tutorial_39.java "Click here to see full file") to see full file of tutorial_39
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_39.java "Clike here to see full file") to see full file of tutorial_39
 
-```Java
+```java
 /*
 Date 21-10-2021
 
@@ -1341,9 +1341,9 @@ public class tutorial_39 {
 
 ## **_37.) tutorial_40 of Java_**
 
-### [**_Click me_**](tutorial_40.java "Click here to see full file") to see full file of tutorial_40
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_40.java "Clike here to see full file") to see full file of tutorial_40
 
-```Java
+```java
 /*
 Date 21-10-2021
 
@@ -1393,9 +1393,9 @@ public class tutorial_40 {
 
 ## **_38.) tutorial_41 of Java_**
 
-### [**_Click me_**](tutorial_41.java "Click here to see full file") to see full file of tutorial_41
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_41.java "Clike here to see full file") to see full file of tutorial_41
 
-```Java
+```java
 /*
 Date 21-10-2021
 
@@ -1448,9 +1448,9 @@ public class tutorial_41 {
 
 ## **_39.) tutorial_43_exercise of Java_**
 
-### [**_Click me_**](tutorial_43_exercise.java "Click here to see full file") to see full file of tutorial_43_exercise
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_43_exercise.java "Clike here to see full file") to see full file of tutorial_43_exercise
 
-```Java
+```java
 /*
 Date 21-10-2021
 
@@ -1557,9 +1557,9 @@ public class tutorial_43_exercise {
 
 ## **_40.) tutorial_44 of Java_**
 
-### [**_Click me_**](tutorial_44.java "Click here to see full file") to see full file of tutorial_44
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_44.java "Clike here to see full file") to see full file of tutorial_44
 
-```Java
+```java
 /*
 Date 21-10-2021
 
@@ -1581,9 +1581,9 @@ public class tutorial_44 {
 
 ## **_41.) tutorial_45 of Java_**
 
-### [**_Click me_**](tutorial_45.java "Click here to see full file") to see full file of tutorial_45
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_45.java "Clike here to see full file") to see full file of tutorial_45
 
-```Java
+```java
 /*
 Date 21-10-2021
 
@@ -1646,9 +1646,9 @@ public class tutorial_45 {
 
 ## **_42.) tutorial_46 of Java_**
 
-### [**_Click me_**](tutorial_46.java "Click here to see full file") to see full file of tutorial_46
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_46.java "Clike here to see full file") to see full file of tutorial_46
 
-```Java
+```java
 /*
 Date 21-10-2021
 
@@ -1765,9 +1765,9 @@ public class tutorial_46 {
 
 ## **_43.) tutorial_47_1 of Java_**
 
-### [**_Click me_**](tutorial_47_1.java "Click here to see full file") to see full file of tutorial_47_1
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_47_1.java "Clike here to see full file") to see full file of tutorial_47_1
 
-```Java
+```java
 /*
 Date 21-10-2021
 
@@ -1818,9 +1818,9 @@ public class tutorial_47_1 {
 
 ## **_44.) tutorial_47_2 of Java_**
 
-### [**_Click me_**](tutorial_47_2.java "Click here to see full file") to see full file of tutorial_47_2
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_47_2.java "Clike here to see full file") to see full file of tutorial_47_2
 
-```Java
+```java
 /*
 Date 21-10-2021
 
@@ -1936,9 +1936,9 @@ public class tutorial_47_2 {
 
 ## **_45.) tutorial_48 of Java_**
 
-### [**_Click me_**](tutorial_48.java "Click here to see full file") to see full file of tutorial_48
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_48.java "Clike here to see full file") to see full file of tutorial_48
 
-```Java
+```java
 /*
 Date 21-10-2021
 
@@ -1991,9 +1991,9 @@ public class tutorial_48 {
 
 ## **_46.) tutorial_49 of Java_**
 
-### [**_Click me_**](tutorial_49.java "Click here to see full file") to see full file of tutorial_49
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_49.java "Clike here to see full file") to see full file of tutorial_49
 
-```Java
+```java
 /*
 Date 21-10-2021
 
@@ -2045,21 +2045,791 @@ public class tutorial_49 {
 
 ## **_47.) tutorial_51_exercise of Java_**
 
-### [**_Click me_**](tutorial_51_exercise.java "Click here to see full file") to see full file of tutorial_51_exercise
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_51_exercise.java "Clike here to see full file") to see full file of tutorial_51_exercise
 
-```Java
+```java
 /*
 Date 21-10-2021
 
 This tutorial is an exercise in which you need to do the below question
 
 You have to implement a library using Java Class "Library" it should have the following things-
-    Methods: addBook, issueBook, returnBook, showAvailableBooks
+    Methods: addBook, showAvailableBooks, issueBook, returnBook
     Properties: Array to store the available books,
     Array to store the issued books
 */
 
+class tutorial_51_exercise_Library {
+
+    String[] books_list = new String[100];
+    String library_name;
+    short index_num_to_append_books = 0;
+
+    tutorial_51_exercise_Library(String library_name) {
+        this.library_name = library_name;
+    }
+
+    public tutorial_51_exercise_Library add_books(String... book_names) {
+
+        for (int i = 0; i < book_names.length; i++) {
+            this.books_list[this.index_num_to_append_books++] = "(Available)   \t" + book_names[i];
+        }
+
+        return this;
+    }
+
+    public tutorial_51_exercise_Library display_books() {
+        for (int i = 0; i < this.index_num_to_append_books; i++) {
+            System.out.printf("%2d.) %s\n", i + 1, books_list[i]);
+        }
+        return this;
+    }
+
+    public tutorial_51_exercise_Library issue_book(int... book_numbers) {
+        for (int book_number : book_numbers) {
+            this.books_list[--book_number] = this.books_list[book_number].replace("(Available)   ", "(Not Available)");
+        }
+        end();
+        return this;
+    }
+
+    public tutorial_51_exercise_Library return_book(int... book_numbers) {
+        for (int book_number : book_numbers) {
+            this.books_list[--book_number] = this.books_list[book_number].replace("(Not Available)", "(Available)   ");
+        }
+        end();
+        return this;
+    }
+
+    private void end() {
+        System.out.printf("Thanks for using %s\n", library_name);
+    }
+}
+
 public class tutorial_51_exercise {
+    public static void main(String[] args) {
+
+        tutorial_51_exercise_Library lib = new tutorial_51_exercise_Library("City Library");
+
+        lib.add_books("Sapiens-A brief history of Human Kind").add_books("Advances in Robot Kinematics",
+                "Application-Specific Integrated Circuits by SMITH", "C++ Primer Plus",
+                "Classic Computer Science Problems in Python", "Computer Science Distilled",
+                "Cracking Codes with Python An Introduction", "Cython - A Guide for Python Programmers",
+                "Deep Learning by Ian Goodfellow, Yoshua Bengio, Aaron Courville", "Deep Learning with Python",
+                "Digital Computer Electronics", "Dive Into Algorithms",
+                "The Hidden Language of Computer Hardware and Software");
+
+        lib.issue_book(2, 1, 8, 10).display_books();
+        System.out.print("\n");
+        lib.return_book(10, 8, 1).display_books();
+
+    }
+}
+
+```
+
+---
+
+---
+
+## **_48.) tutorial_52 of Java_**
+
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_52.java "Clike here to see full file") to see full file of tutorial_52
+
+```java
+/*
+Date 22-10-2021
+
+This tutorial covers some below given practice questions--
+
+Create a class circle and use inheritance to create another class cylinder from it
+Create a class rectangle and use inheritance to create another class cuboid, try to keep it as close to the real-world scenario as possible
+Create a method for area and volume in 1
+create methods for area & volume in 2 also create getters and setters
+*/
+
+class tutorial_52_circle {
+    double radius = 0;
+
+    public double area_of_circle() {
+        return ((22f / 7) * radius * radius);
+    }
+
+    // public double circumference_of_circle() {
+    // return (2 * (22 / 7) * radius);
+    // }
+}
+
+class tutorial_52_cylinder extends tutorial_52_circle {
+
+    double height;
+
+    tutorial_52_cylinder(double radius, double height) {
+        this.radius = radius;
+        this.height = height;
+    }
+
+    public double area_of_cylinder() {
+        return ((2 * (22f / 7) * radius * height) + (area_of_circle() * 2));
+    }
+
+    public double volume_of_cylinder() {
+        return (area_of_circle() * height);
+    }
+}
+
+class tutorial_52_rectangle {
+    double length;
+    double width;
+
+    tutorial_52_rectangle(double length, double width) {
+        this.length = length;
+        this.width = width;
+    }
+
+}
+
+class tutorial_52_cuboid extends tutorial_52_rectangle {
+
+    double height;
+
+    tutorial_52_cuboid(double length, double width, double height) {
+        super(length, width);
+        this.height = height;
+    }
+
+    public double area_of_cuboid() {
+        return ((2f * length * width) + (2f * length * height) + (2f * height * width));
+    }
+
+    public double volume_of_cuboid() {
+        return (1f * length * width * height);
+    }
+}
+
+public class tutorial_52 {
+    public static void main(String[] args) {
+
+        // tutorial_52_cylinder cyl = new tutorial_52_cylinder(5, 5);
+        // System.out.println(cyl.volume_of_cylinder());
+        // System.out.println(cyl.area_of_cylinder());
+
+        tutorial_52_cuboid cu = new tutorial_52_cuboid(4, 4, 4);
+        System.out.println(cu.volume_of_cuboid());
+        System.out.println(cu.area_of_cuboid());
+
+    }
+}
+
+```
+
+---
+
+---
+
+## **_49.) tutorial_53 of Java_**
+
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_53.java "Clike here to see full file") to see full file of tutorial_53
+
+```java
+/*
+Date 22-10-2021
+
+In this Java tutorial, you will learn about Abstract base classes and Abstract methods
+
+An abstract method in Java is declared through the keyword "abstract". There is no body in an abstract method, only the signature of the method is present.
+If there is only one abstract method in the class then also that class will considered as abstract base class
+*/
+
+abstract class tutorial_53_Base_class {
+    tutorial_53_Base_class() {
+        System.out.println("I\'m constructor of tutorial_53_Base_class");
+    }
+
+    public void say_hello() {
+        System.out.println("Hello! I'm saying hello to you!");
+    }
+
+    abstract public void greet();
+}
+
+class tutorial_53_Derived_class_1 extends tutorial_53_Base_class {
+    @Override
+    public void greet() {
+        System.out.println("I'm greeting you!");
+    }
+}
+
+class tutorial_53_Derived_class_2 extends tutorial_53_Base_class {
+    @Override
+    public void greet() {
+        System.out.println("I'll not greet you at any cause!");
+    }
+}
+
+abstract class tutorial_53_Derived_class_3 extends tutorial_53_Base_class {
+}
+
+public class tutorial_53 {
+    public static void main(String[] args) {
+
+        tutorial_53_Derived_class_1 obj_1 = new tutorial_53_Derived_class_1();
+        obj_1.greet();
+
+        tutorial_53_Derived_class_2 obj_2 = new tutorial_53_Derived_class_2();
+        obj_2.greet();
+
+    }
+}
+
+```
+
+---
+
+---
+
+## **_50.) tutorial_54 of Java_**
+
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_54.java "Clike here to see full file") to see full file of tutorial_54
+
+```java
+/*
+Date 23-10-2021
+
+In this Java tutorial, you will learn about Interfaces
+An interface in the Java programming language is an abstract type that is used to specify a behavior that classes must implement. They are similar to protocols. Interfaces are declared using the interface keyword, and may only contain method signature and constant declarations.
+*/
+
+public class tutorial_54 {
+    public static void main(String[] args) {
+
+        System.out.println("hello!");
+
+    }
+}
+
+```
+
+---
+
+---
+
+## **_51.) tutorial_55_1 of Java_**
+
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_55_1.java "Clike here to see full file") to see full file of tutorial_55_1
+
+```java
+/*
+Date 23-10-2021
+
+In this Java tutorial, you will learn about difference between Abstract Based classes and Interfaces Based classes
+You can create properties in Interfaces
+You cannot modify the properties in Interfaces as they are final by-default
+*/
+
+interface tutorial_55_bicycle {
+
+    void apply_brake();
+
+    void accelerate(float percent_of_increasing_speed);
+
+}
+
+interface tutorial_55_blow_horn {
+
+    void blow_horn_high_volume();
+
+    void blow_horn_low_volume();
+
+}
+
+class tutorial_55_avon_cycle implements tutorial_55_bicycle, tutorial_55_blow_horn {
+
+    public void blow_horn() {
+        System.out.println("Blowing horn of Avon Cycle");
+    }
+
+    public void apply_brake() {
+        System.out.println("Break applied in Avon Cycle");
+    }
+
+    public void accelerate(float percent_of_increasing_speed) {
+        System.out.printf("%f percent speed is increased in Avon Cycle", percent_of_increasing_speed);
+    }
+
+    public void blow_horn_low_volume() {
+        System.out.println("Blowing Low volume horn of Avon Cycle");
+    }
+
+    public void blow_horn_high_volume() {
+        System.out.println("Blowing High volume horn of Avon Cycle");
+    }
+
+}
+
+class tutorial_55_atlas_cycle implements tutorial_55_bicycle, tutorial_55_blow_horn {
+    public void blow_horn() {
+        System.out.println("Blowing horn of Atlas Cycle");
+    }
+
+    public void apply_brake() {
+        System.out.println("Break applied in Atlas Cycle");
+    }
+
+    public void accelerate(float percent_of_increasing_speed) {
+        System.out.printf("%f percent speed is increased in Atlas Cycle", percent_of_increasing_speed);
+    }
+
+    public void blow_horn_low_volume() {
+        System.out.println("Blowing Low volume horn of Atlas Cycle");
+    }
+
+    public void blow_horn_high_volume() {
+        System.out.println("Blowing High volume horn of Atlas Cycle");
+    }
+}
+
+public class tutorial_55_1 {
+    public static void main(String[] args) {
+
+        tutorial_55_avon_cycle av_obj = new tutorial_55_avon_cycle();
+        av_obj.blow_horn();
+        av_obj.apply_brake();
+        av_obj.accelerate(5.3f);
+        System.out.print("\n\n");
+        tutorial_55_atlas_cycle at_obj = new tutorial_55_atlas_cycle();
+        at_obj.blow_horn();
+        at_obj.apply_brake();
+        at_obj.accelerate(7.9f);
+
+    }
+}
+
+```
+
+---
+
+---
+
+## **_52.) tutorial_55_2 of Java_**
+
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_55_2.java "Clike here to see full file") to see full file of tutorial_55_2
+
+```java
+/*
+Date 23-10-2021
+
+In this Java tutorial, you will learn about difference between Abstract Based classes and Interfaces Based classes
+You can create properties in Interfaces
+You cannot modify the properties in Interfaces as they are final by-default
+*/
+
+public class tutorial_55_2 {
+    public static void main(String[] args) {
+
+        tutorial_55_avon_cycle av_obj = new tutorial_55_avon_cycle();
+        av_obj.blow_horn_high_volume();
+        av_obj.blow_horn_low_volume();
+        System.out.print("\n\n");
+        tutorial_55_atlas_cycle at_obj = new tutorial_55_atlas_cycle();
+        at_obj.blow_horn_high_volume();
+        at_obj.blow_horn_low_volume();
+
+    }
+}
+
+```
+
+---
+
+---
+
+## **_53.) tutorial_57 of Java_**
+
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_57.java "Clike here to see full file") to see full file of tutorial_57
+
+```java
+
+/*
+Date 23-10-2021
+
+In this Java tutorial, we will see examples of Interfaces and Default methods
+Java 8 has introduced the concept of default methods which allow the interfaces to have methods with implementation without affecting the classes that implement the interface. Default methods are also known as defender methods or virtual extension methods. You can define Default methods int interface itself
+*/
+
+import java.util.concurrent.ThreadLocalRandom;
+
+interface tutorial_57_camera {
+    tutorial_57_smart_phone take_photo();
+
+    tutorial_57_smart_phone record_video();
+
+    private void print_recording() {
+        System.out.print("Recording");
+
+    }
+
+    default void record_4k_video() {
+        print_recording();
+        System.out.print(" 4k video!\n");
+    }
+}
+
+interface tutorial_57_GPS {
+    tutorial_57_smart_phone get_latitude();
+
+    tutorial_57_smart_phone get_longitude();
+}
+
+interface tutorial_57_music_player {
+    tutorial_57_smart_phone play_song();
+
+    tutorial_57_smart_phone play_next_song();
+}
+
+interface tutorial_57_video_game {
+
+    tutorial_57_smart_phone play_game();
+
+    tutorial_57_smart_phone get_score();
+}
+
+class tutorial_57_cell_phone {
+
+    void call_person(long phone_number) {
+        System.out.println("Calling +91 " + phone_number);
+    }
+
+    void pick_call() {
+        int phone_number_1 = ThreadLocalRandom.current().nextInt(10000, 99999);
+        int phone_number_2 = ThreadLocalRandom.current().nextInt(10000, 99999);
+        System.out.printf("Call picked up from +91 %d%d\n", phone_number_1, phone_number_2);
+    }
+}
+
+class tutorial_57_smart_phone extends tutorial_57_cell_phone
+        implements tutorial_57_camera, tutorial_57_GPS, tutorial_57_music_player, tutorial_57_video_game {
+
+    public tutorial_57_smart_phone get_latitude() {
+        int latitude_before_decimal = ThreadLocalRandom.current().nextInt(0, 361);
+        int latitude_after_decimal = ThreadLocalRandom.current().nextInt(1, 999999);
+
+        System.out.printf("Latitude is %d.%d\n", latitude_before_decimal, latitude_after_decimal);
+        return this;
+    }
+
+    public tutorial_57_smart_phone get_longitude() {
+        int longitude_before_decimal = ThreadLocalRandom.current().nextInt(0, 361);
+        int longitude_after_decimal = ThreadLocalRandom.current().nextInt(1, 999999);
+
+        System.out.printf("Longitude is %d.%d\n", longitude_before_decimal, longitude_after_decimal);
+        return this;
+    }
+
+    public tutorial_57_smart_phone play_game() {
+        System.out.printf("Starting Game.....\n");
+        return this;
+    }
+
+    public tutorial_57_smart_phone get_score() {
+        int score = ThreadLocalRandom.current().nextInt(1, 101);
+        System.out.printf("Your Score is %d out of 100\n", score);
+        return this;
+    }
+
+    public tutorial_57_smart_phone play_song() {
+        System.out.printf("Playing Song...\n");
+        return this;
+    }
+
+    public tutorial_57_smart_phone play_next_song() {
+        System.out.printf("Playing next Song...\n");
+        return this;
+    }
+
+    public tutorial_57_smart_phone take_photo() {
+        System.out.printf("Photo captured...\n");
+        return this;
+    }
+
+    public tutorial_57_smart_phone record_video() {
+        System.out.printf("Video recording started...\n");
+        return this;
+    }
+
+    // public void record_4k_video() {
+    // System.out.printf("Recording 4k video in Smart Phone!\n");
+    // }
+}
+
+public class tutorial_57 {
+    public static void main(String[] args) {
+
+        tutorial_57_smart_phone iphone_13 = new tutorial_57_smart_phone();
+        iphone_13.get_longitude().get_latitude();
+        iphone_13.play_game().get_score();
+        iphone_13.take_photo().record_video();
+        iphone_13.pick_call();
+        iphone_13.call_person(7854397458L);
+        iphone_13.play_song().play_next_song();
+        iphone_13.record_4k_video();
+
+    }
+}
+
+```
+
+---
+
+---
+
+## **_54.) tutorial_58 of Java_**
+
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_58.java "Clike here to see full file") to see full file of tutorial_58
+
+```java
+/*
+Date 23-10-2021
+
+In this Java tutorial, you will learn about Inheriting Interface in Interface
+*/
+
+interface tutorial_58_interface_1 {
+
+    default void print_details_of_methods(int num) {
+        System.out.printf("I\'m method %d\n", num);
+    }
+
+    tutorial_58_Class method_1();
+}
+
+interface tutorial_58_interface_2 extends tutorial_58_interface_1 {
+    tutorial_58_Class method_2();
+
+    default void method_3() {
+        print_details_of_methods(3);
+    }
+}
+
+interface tutorial_58_interface_3 extends tutorial_58_interface_2 {
+
+    default void method_4() {
+        print_details_of_methods(4);
+    }
+
+    tutorial_58_Class method_5();
+}
+
+class tutorial_58_Class implements tutorial_58_interface_3 {
+    public tutorial_58_Class method_1() {
+        print_details_of_methods(1);
+        return this;
+    }
+
+    public tutorial_58_Class method_2() {
+        print_details_of_methods(2);
+        return this;
+    }
+
+    public tutorial_58_Class method_5() {
+        print_details_of_methods(5);
+        return this;
+    }
+}
+
+public class tutorial_58 {
+    public static void main(String[] args) {
+
+        tutorial_58_Class obj = new tutorial_58_Class();
+        obj.method_1().method_2().method_5();
+        obj.method_3();
+        obj.method_4();
+        // System.out.print("\n");
+
+    }
+}
+
+```
+
+---
+
+---
+
+## **_55.) tutorial_59 of Java_**
+
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_59.java "Clike here to see full file") to see full file of tutorial_59
+
+```java
+/*
+Date 23-10-2021
+
+In this Java tutorial, you will learn about Polymorphism in Interfaces and where to implement polymorphism.
+*/
+
+import java.util.concurrent.ThreadLocalRandom;
+
+interface tutorial_59_camera {
+    /*
+     * Interface is been copied from tutorial_57's interface with name
+     * "tutorial_59_camera"
+     */
+    tutorial_59_smart_phone take_photo();
+
+    tutorial_59_smart_phone record_video();
+
+    private void print_recording() {
+        System.out.print("Recording");
+
+    }
+
+    default void record_4k_video() {
+        print_recording();
+        System.out.print(" 4k video!\n");
+    }
+}
+
+interface tutorial_59_GPS {
+    /*
+     * Interface is been copied from tutorial_57's interface with name
+     * "tutorial_59_GPS"
+     */
+    tutorial_59_smart_phone get_latitude();
+
+    tutorial_59_smart_phone get_longitude();
+}
+
+interface tutorial_59_music_player {
+    /*
+     * Interface is been copied from tutorial_57's interface with name
+     * "tutorial_59_music_player"
+     */
+    tutorial_59_smart_phone play_song();
+
+    tutorial_59_smart_phone play_next_song();
+}
+
+interface tutorial_59_video_game {
+    /*
+     * Interface is been copied from tutorial_57's interface with name
+     * "tutorial_59_video_game"
+     */
+
+    tutorial_59_smart_phone play_game();
+
+    tutorial_59_smart_phone get_score();
+}
+
+class tutorial_59_cell_phone {
+    /*
+     * Class is been copied from tutorial_57's class with name
+     * "tutorial_59_cell_phone"
+     */
+
+    void call_person(long phone_number) {
+        System.out.println("Calling +91 " + phone_number);
+    }
+
+    void pick_call() {
+        int phone_number_1 = ThreadLocalRandom.current().nextInt(10000, 99999);
+        int phone_number_2 = ThreadLocalRandom.current().nextInt(10000, 99999);
+        System.out.printf("Call picked up from +91 %d%d\n", phone_number_1, phone_number_2);
+    }
+}
+
+class tutorial_59_smart_phone extends tutorial_59_cell_phone
+        implements tutorial_59_camera, tutorial_59_GPS, tutorial_59_music_player, tutorial_59_video_game {
+    /*
+     * Class is been copied from tutorial_57's class with name
+     * "tutorial_59_smart_phone"
+     */
+
+    public tutorial_59_smart_phone get_latitude() {
+        int latitude_before_decimal = ThreadLocalRandom.current().nextInt(0, 361);
+        int latitude_after_decimal = ThreadLocalRandom.current().nextInt(1, 999999);
+
+        System.out.printf("Latitude is %d.%d\n", latitude_before_decimal, latitude_after_decimal);
+        return this;
+    }
+
+    public tutorial_59_smart_phone get_longitude() {
+        int longitude_before_decimal = ThreadLocalRandom.current().nextInt(0, 361);
+        int longitude_after_decimal = ThreadLocalRandom.current().nextInt(1, 999999);
+
+        System.out.printf("Longitude is %d.%d\n", longitude_before_decimal, longitude_after_decimal);
+        return this;
+    }
+
+    public tutorial_59_smart_phone play_game() {
+        System.out.printf("Starting Game.....\n");
+        return this;
+    }
+
+    public tutorial_59_smart_phone get_score() {
+        int score = ThreadLocalRandom.current().nextInt(1, 101);
+        System.out.printf("Your Score is %d out of 100\n", score);
+        return this;
+    }
+
+    public tutorial_59_smart_phone play_song() {
+        System.out.printf("Playing Song...\n");
+        return this;
+    }
+
+    public tutorial_59_smart_phone play_next_song() {
+        System.out.printf("Playing next Song...\n");
+        return this;
+    }
+
+    public tutorial_59_smart_phone take_photo() {
+        System.out.printf("Photo captured...\n");
+        return this;
+    }
+
+    public tutorial_59_smart_phone record_video() {
+        System.out.printf("Video recording started...\n");
+        return this;
+    }
+
+}
+
+public class tutorial_59 {
+    public static void main(String[] args) {
+        tutorial_59_camera camera = new tutorial_59_smart_phone();
+
+        /*
+         * The below after this comment will give an error because we made reference of
+         * camera not of Smart Phone or music player
+         */
+        // ! camera.play_next_song();
+        /*
+         * The above before this comment will give an error because we made reference of
+         * camera not of Smart Phone or music player
+         */
+
+        camera.take_photo().record_video();
+        camera.record_4k_video();
+
+    }
+}
+
+```
+
+---
+
+---
+
+## **_56.) tutorial_60 of Java_**
+
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_60.java "Clike here to see full file") to see full file of tutorial_60
+
+```java
+/*
+Date 23-10-2021
+
+This tutorial covers some very simple practice questions so I did not covered it
+*/
+
+public class tutorial_60 {
     public static void main(String[] args) {
 
         System.out.println("Hello World!");
@@ -2072,3 +2842,710 @@ public class tutorial_51_exercise {
 
 ---
 
+## **_57.) tutorial_64 of Java_**
+
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_64.java "Clike here to see full file") to see full file of tutorial_64
+
+```java
+/*
+Date 24-10-2021
+
+In this Java tutorial, you will learn about packages
+A Java package organizes Java classes into namespaces, providing a unique namespace for each type it contains. Classes in the same package can access each other's package-private and protected members.
+*/
+
+public class tutorial_64 {
+    public static void main(String[] args) {
+
+        System.out.println("Hello World!");
+    }
+}
+
+```
+
+---
+
+---
+
+## **_58.) tutorial_65 of Java_**
+
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_65.java "Clike here to see full file") to see full file of tutorial_65
+
+```java
+/*
+Date 24-10-2021
+
+In this Java tutorial, we will more about packages and ho to create them
+*/
+
+//* import java.util.*;
+
+public class tutorial_65 {
+    public static void main(String[] args) {
+
+        java.util.Scanner input = new java.util.Scanner(System.in);
+        // * Scanner input = new Scanner(System.in);
+
+        System.out.println("Enter a number!");
+        int num = input.nextInt();
+        System.out.println("Your entered number is " + num);
+    }
+}
+
+```
+
+---
+
+---
+
+## **_59.) tutorial_66 of Java_**
+
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_66.java "Clike here to see full file") to see full file of tutorial_66
+
+```java
+/*
+Date 24-10-2021
+
+In this Java tutorial, you will learn more about Access Modifiers
+
+
+|    Access Modifier    | Within class | Within Package | Sub-class | Outside Package |
+=======================================================================================
+|        Public         |      Y       |       Y        |     Y     |        Y        |
+|       Protected       |      Y       |       Y        |     Y     |        N        |
+| Default (No-Modifier) |      Y       |       Y        |     N     |        N        |
+|        Private        |      Y       |       N        |     N     |        N        |
+
+*/
+
+public class tutorial_66 {
+    public static void main(String[] args) {
+
+        System.out.println("Hello World!");
+    }
+}
+
+```
+
+---
+
+---
+
+## **_60.) tutorial_67 of Java_**
+
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_67.java "Clike here to see full file") to see full file of tutorial_67
+
+```java
+/*
+Date 24-10-2021
+
+This tutorial covers some very simple practice questions so I did not covered it
+*/
+
+public class tutorial_67 {
+    public static void main(String[] args) {
+
+        System.out.println("Hello World!");
+    }
+}
+
+```
+
+---
+
+---
+
+## **_61.) tutorial_68_exercise of Java_**
+
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_68_exercise.java "Clike here to see full file") to see full file of tutorial_68_exercise
+
+```java
+/*
+Date 24-10-2021
+
+This tutorial is an exercise in which you need to do the below question
+You have to create a package named shapes
+This package should have individual classes for Rectangle, Square, Circle, Cylinder, Sphere
+These classes should use inheritance to properly manage the code!
+Include methods like volume, surface area
+*/
+
+import tutorial_68_exercise.shapes.tutorial_68_exercise_circle;
+import tutorial_68_exercise.shapes.tutorial_68_exercise_cylinder;
+import tutorial_68_exercise.shapes.tutorial_68_exercise_rectangle;
+import tutorial_68_exercise.shapes.tutorial_68_exercise_sphere;
+import tutorial_68_exercise.shapes.tutorial_68_exercise_square;
+
+public class tutorial_68_exercise {
+    public static void main(String[] args) {
+
+        // tutorial_68_exercise_circle circle = new tutorial_68_exercise_circle(8.4d);
+        // System.out.println(circle.area_of_circle());
+        // System.out.println(circle.circumference_of_circle());
+
+        // tutorial_68_exercise_cylinder cyl = new tutorial_68_exercise_cylinder(8, 7);
+        // System.out.println(cyl.area_of_cylinder());
+        // System.out.println(cyl.volume_of_cylinder());
+
+        // tutorial_68_exercise_sphere sphere = new tutorial_68_exercise_sphere(8);
+        // System.out.println(sphere.area_of_sphere());
+        // System.out.println(sphere.volume_of_sphere());
+
+        // tutorial_68_exercise_square square = new tutorial_68_exercise_square(8);
+        // System.out.println(square.area_of_square());
+        // System.out.println(square.perimeter_of_square());
+
+        tutorial_68_exercise_rectangle rec = new tutorial_68_exercise_rectangle(8, 7);
+        System.out.println(rec.area_of_rectangle());
+        System.out.println(rec.perimeter_of_rectangle());
+    }
+}
+
+```
+
+---
+
+---
+
+## **_62.) tutorial_68_exercise_circle of Java_**
+
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_68_exercise_circle.java "Clike here to see full file") to see full file of tutorial_68_exercise_circle
+
+```java
+/*
+Date 24-10-2021
+
+This code is part of the solution of tutorial_68_exercise.java
+*/
+
+package tutorial_68_exercise.shapes;
+
+import java.lang.Math.*;
+
+public class tutorial_68_exercise_circle {
+    double radius = 0;
+
+    public tutorial_68_exercise_circle(double radius) {
+        this.radius = radius;
+    }
+
+    public double area_of_circle() {
+        return (Math.PI * radius * radius);
+    }
+
+    public double circumference_of_circle() {
+        return (2f * Math.PI * radius);
+    }
+}
+```
+
+---
+
+---
+
+## **_63.) tutorial_68_exercise_cylinder of Java_**
+
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_68_exercise_cylinder.java "Clike here to see full file") to see full file of tutorial_68_exercise_cylinder
+
+```java
+/*
+Date 24-10-2021
+
+This code is part of the solution of tutorial_68_exercise.java
+*/
+
+package tutorial_68_exercise.shapes;
+
+import java.lang.Math.*;
+
+public class tutorial_68_exercise_cylinder extends tutorial_68_exercise_circle {
+    double height = 0;
+
+    public tutorial_68_exercise_cylinder(double radius, double height) {
+        super(radius);
+        this.height = height;
+    }
+
+    public double area_of_cylinder() {
+        return ((2 * Math.PI * radius * height) + (area_of_circle() * 2));
+    }
+
+    public double volume_of_cylinder() {
+        return (area_of_circle() * height);
+    }
+}
+```
+
+---
+
+---
+
+## **_64.) tutorial_68_exercise_rectangle of Java_**
+
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_68_exercise_rectangle.java "Clike here to see full file") to see full file of tutorial_68_exercise_rectangle
+
+```java
+/*
+Date 24-10-2021
+
+This code is part of the solution of tutorial_68_exercise.java
+*/
+
+package tutorial_68_exercise.shapes;
+
+import java.lang.Math.*;
+
+public class tutorial_68_exercise_rectangle {
+    double length = 0;
+    double breadth = 0;
+
+    public tutorial_68_exercise_rectangle(double length, double breadth) {
+        this.length = length;
+        this.breadth = breadth;
+    }
+
+    public double area_of_rectangle() {
+        return ((this.length) * (this.breadth) * 1f);
+    }
+
+    public double perimeter_of_rectangle() {
+        return (2f * ((this.length) + (this.breadth)));
+    }
+}
+```
+
+---
+
+---
+
+## **_65.) tutorial_68_exercise_sphere of Java_**
+
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_68_exercise_sphere.java "Clike here to see full file") to see full file of tutorial_68_exercise_sphere
+
+```java
+/*
+Date 24-10-2021
+
+This code is part of the solution of tutorial_68_exercise.java
+*/
+
+package tutorial_68_exercise.shapes;
+
+import java.lang.Math.*;
+
+public class tutorial_68_exercise_sphere extends tutorial_68_exercise_circle {
+
+    public tutorial_68_exercise_sphere(double radius) {
+        super(radius);
+    }
+
+    public double area_of_sphere() {
+        return (4f * area_of_circle());
+    }
+
+    public double volume_of_sphere() {
+        return ((area_of_sphere() * this.radius) / 3f);
+    }
+}
+```
+
+---
+
+---
+
+## **_66.) tutorial_68_exercise_square of Java_**
+
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_68_exercise_square.java "Clike here to see full file") to see full file of tutorial_68_exercise_square
+
+```java
+/*
+Date 24-10-2021
+
+This code is part of the solution of tutorial_68_exercise.java
+*/
+
+package tutorial_68_exercise.shapes;
+
+import java.lang.Math.*;
+
+import tutorial_68_exercise.shapes.tutorial_68_exercise_rectangle;
+
+public class tutorial_68_exercise_square extends tutorial_68_exercise_rectangle {
+
+    public tutorial_68_exercise_square(double length) {
+        super(length, length);
+    }
+
+    public double area_of_square() {
+        return ((this.length) * (this.breadth) * 1f);
+    }
+
+    public double perimeter_of_square() {
+        return (2f * ((this.length) + (this.breadth)));
+    }
+}
+```
+
+---
+
+---
+
+## **_67.) tutorial_70 of Java_**
+
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_70.java "Clike here to see full file") to see full file of tutorial_70
+
+```java
+/*
+Date 25-10-2021
+
+In this Java tutorial, you will learn about how to implement concept of Multithreading in java using Thread class
+Multithreading is a Java feature that allows concurrent execution of two or more parts of a program for maximum utilization of CPU. Each part of such program is called a thread. So, threads are light-weight processes within a process.
+*/
+
+class tutorial_70_thread_1 extends Thread {
+
+    @Override
+    public void run() {
+        for (int i = 1; i <= 10; i++) {
+            System.out.println("I'm in Thread 1 which is build for cooking, it had been executed " + i + " times");
+            System.out.println("And now also I'm in Thread 1, it had been executed " + i + " times");
+        }
+    }
+}
+
+class tutorial_70_thread_2 extends Thread {
+
+    @Override
+    public void run() {
+        for (int i = 1; i <= 10; i++) {
+            System.out.println("I'm in Thread 2 which is build for chatting, it had been executed " + i + " times");
+            System.out.println("And now also I'm in Thread 2, it had been executed " + i + " times");
+        }
+    }
+
+}
+
+public class tutorial_70 {
+    public static void main(String[] args) {
+
+        System.out.println("Running started...");
+
+        tutorial_70_thread_1 t1 = new tutorial_70_thread_1();
+        tutorial_70_thread_2 t2 = new tutorial_70_thread_2();
+
+        t1.start();
+        t2.start();
+
+        System.out.println("Running ended...");
+    }
+}
+
+```
+
+---
+
+---
+
+## **_68.) tutorial_71 of Java_**
+
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_71.java "Clike here to see full file") to see full file of tutorial_71
+
+```java
+/*
+Date 25-10-2021
+
+In this Java tutorial, you will learn how to achieve Multithreading using Runnable interface
+*/
+
+class tutorial_71_thread_1 implements Runnable {
+
+    @Override
+    public void run() {
+        for (int i = 1; i <= 10; i++) {
+            System.out.printf("Bullet 1 fired %d times\n", i);
+            System.out.printf("Bullet 1 again fired %d times\n", i);
+        }
+    }
+}
+
+class tutorial_71_thread_2 implements Runnable {
+
+    @Override
+    public void run() {
+        for (int i = 1; i <= 10; i++) {
+            System.out.printf("Bullet 2 fired %d times\n", i);
+            System.out.printf("Bullet 2 again fired %d times\n", i);
+        }
+    }
+}
+
+public class tutorial_71 {
+    public static void main(String[] args) {
+
+        System.out.println("Running started...");
+
+        tutorial_71_thread_1 bullet_1 = new tutorial_71_thread_1();
+        Thread gun_1 = new Thread(bullet_1);
+        gun_1.start();
+        tutorial_71_thread_2 bullet_2 = new tutorial_71_thread_2();
+        Thread gun_2 = new Thread(bullet_2);
+        gun_2.start();
+
+        System.out.println("Running ended...");
+    }
+}
+
+```
+
+---
+
+---
+
+## **_69.) tutorial_72 of Java_**
+
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_72.java "Clike here to see full file") to see full file of tutorial_72
+
+```java
+/*
+Date 25-10-2021
+
+I found multithreading a bit complex topic so I'm not doing it now...
+*/
+
+public class tutorial_72 {
+    public static void main(String[] args) {
+
+        System.out.println("I found multithreading a bit complex topic so I'm not doing it now...");
+    }
+}
+
+```
+
+---
+
+---
+
+## **_70.) tutorial_73 of Java_**
+
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_73.java "Clike here to see full file") to see full file of tutorial_73
+
+```java
+/*
+Date 25-10-2021
+
+I found multithreading a bit complex topic so I'm not doing it now...
+*/
+
+public class tutorial_73 {
+    public static void main(String[] args) {
+
+        System.out.println("I found multithreading a bit complex topic so I'm not doing it now...");
+    }
+}
+
+```
+
+---
+
+---
+
+## **_71.) tutorial_74 of Java_**
+
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_74.java "Clike here to see full file") to see full file of tutorial_74
+
+```java
+/*
+Date 25-10-2021
+
+I found multithreading a bit complex topic so I'm not doing it now...
+*/
+
+public class tutorial_74 {
+    public static void main(String[] args) {
+
+        System.out.println("I found multithreading a bit complex topic so I'm not doing it now...");
+    }
+}
+
+```
+
+---
+
+---
+
+## **_72.) tutorial_75 of Java_**
+
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_75.java "Clike here to see full file") to see full file of tutorial_75
+
+```java
+/*
+Date 25-10-2021
+
+I found multithreading a bit complex topic so I'm not doing it now...
+*/
+
+public class tutorial_75 {
+    public static void main(String[] args) {
+
+        System.out.println("I found multithreading a bit complex topic so I'm not doing it now...");
+    }
+}
+
+```
+
+---
+
+---
+
+## **_73.) tutorial_76 of Java_**
+
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_76.java "Clike here to see full file") to see full file of tutorial_76
+
+```java
+/*
+Date 25-10-2021
+
+I found multithreading a bit complex topic so I'm not doing it now...
+*/
+
+public class tutorial_76 {
+    public static void main(String[] args) {
+
+        System.out.println("I found multithreading a bit complex topic so I'm not doing it now...");
+    }
+}
+
+```
+
+---
+
+---
+
+## **_74.) tutorial_78 of Java_**
+
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_78.java "Clike here to see full file") to see full file of tutorial_78
+
+```java
+/*
+Date 25-10-2021
+
+In this Java tutorial, you will learn about Types of Errors in Java
+There are three types of error in java which are as follows:
+
+Syntax errors ---> A syntactical error in Java code is one in which the language you use to create your code is incorrect. For example, if you try to create an if statement that doesn't include the condition in parentheses, even when the condition is present on the same line as the if statement, that's a syntax error.
+
+Logical errors ---> Logical Error: A logic error is when your program compiles and executes, but does the wrong thing or returns an incorrect result or no output when it should be returning an output.
+
+Runtime errors(also called Exceptions) ---> Runtime errors/Exceptions occur when a program does not contain any syntax errors but asks the computer to do something that the computer is unable to reliably do. It is the JVM (Java Virtual Machine) which detects it while the program is running.
+
+Note: Error and Exceptions are different words with different meaning
+*/
+
+public class tutorial_78 {
+    public static void main(String[] args) {
+
+        System.out.println("Hello World!");
+    }
+}
+
+```
+
+---
+
+---
+
+## **_75.) tutorial_79 of Java_**
+
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_79.java "Clike here to see full file") to see full file of tutorial_79
+
+```java
+/*
+Date 25-10-2021
+
+In this Java tutorial, you will learn about Error handling in Java
+*/
+
+import java.util.Scanner;
+
+public class tutorial_79 {
+    public static void main(String[] args) {
+
+        // * Below given are some Syntax Errors
+        // ! int a = 0 // Error: no semicolon!
+        // ! b = 8; // Error: b not declared!
+
+        // * Below given is example of Logical Error
+        // * Write a program to print all prime numbers between 1 to 10
+        for (int i = 1; i < 50;) {
+            i = i + i;
+            System.out.println(i);
+        }
+
+        // * Below given is example of Runtime Error
+        Scanner input = new Scanner(System.in);
+
+        System.out.print("Enter a non-integer value to generate a Runtime Error ---> ");
+        int val = input.nextInt();
+        System.out.println("your entered Integer is ---> " + val);
+
+    }
+}
+
+```
+
+---
+
+---
+
+## **_76.) tutorial_80 of Java_**
+
+### [**_Click me_**](https://github.com/AmanRathoreM/Java/blob/main/Java%20Tutorials/Java%20CodeWithHarry%20Tutorials/Tutorials/tutorial_80.java "Clike here to see full file") to see full file of tutorial_80
+
+```java
+/*
+Date 25-10-2021
+
+In this Java tutorial, you will learn about how to handel Exception using Try Catch
+
+There are 2 types of exceptions in Java which are as follows -
+Checked Exception --->  Checked are the exceptions that are checked at compile time. If some code within a method throws a checked exception, then the method must either handle the exception or it must specify the exception using throws keyword.
+Un-Checked Exception --->  Unchecked Exception in Java is those Exceptions whose handling is NOT verified during Compile time . These exceptions occurs because of bad programming. The program won't give a compilation error. All Unchecked exceptions are direct subclasses of RuntimeException class.
+
+Some of the commonly occurring Checked exceptions are -
+1.) Class Not Found Exception
+2.) Invocation Target Exception
+3.) Interrupted Exception
+4.) No Such Method Exception
+
+Some of the commonly occurring Un-Checked exceptions are -
+1.) Null Pointer Exception
+2.) Array IndexOut Of Bounds Exception
+3.) Arithmetic Exception
+4.) Class Cast Exception
+5.) Illegal State Exception
+6.) Illegal Argument Exception
+7.) Number Format Exception
+
+Try catch block ---> Place any code statements that might raise or throw an exception in a try block, and place statements used to handle the exception or exceptions in one or more catch blocks below the try block. Each catch block includes the exception type and can contain additional statements needed to handle that exception type.
+*/
+
+public class tutorial_80 {
+    public static void main(String[] args) {
+
+        int a = 100, b = 0;
+        try {
+            int c = a / b;
+            System.out.printf("Your answer is %d\n", c);
+        } catch (Exception error_value) {
+            System.out.println("Unable to divide due to " + error_value);
+        }
+
+        // System.out.println("Hello World!");
+    }
+}
+
+```
+
+---
+
+---
